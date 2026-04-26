@@ -1,10 +1,1 @@
-```lua
-local trmcnvn = {
-  role = "software engineer",
-  company = "metafy",
-  location = "melbourne, australia",
-  editor = "neovim",
-  agent = "opencode",
-  site = "https://trmcnvn.dev",
-}
-```
+![](https://github.com/images/mona-hifive.gif)
